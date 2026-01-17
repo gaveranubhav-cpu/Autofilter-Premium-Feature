@@ -240,8 +240,8 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 🔥 ʀᴀᴛɪɴɢ   : <b>{rating}</b>
 {episodes}
 </blockquote>
-SEARCHING_TXT = """
 
+SEARCHING_TXT = """
 🔍 <b>Sᴇᴀʀᴄʜɪɴɢ Fᴏʀ Yᴏᴜʀ Fɪʟᴇ...</b>
 ━━━━━━━━━━━━━━━━━━━━
 ⏳ <i>Pʟᴇᴀsᴇ Wᴀɪᴛ A Mᴏᴍᴇɴᴛ, Wᴇ Aʀᴇ Fᴇᴛᴄʜɪɴɢ Rᴇsᴜʟᴛs Fʀᴏᴍ Oᴜʀ Dᴀᴛᴀʙᴀsᴇ.</i>
