@@ -249,8 +249,6 @@ SEARCHING_TXT = """
 
 SEARCH_LINK_TXT = """🔍 <b>SEARCH →</b> {search_link}"""
 
-🔍 <b>Sᴇᴀʀᴄʜ →</b> {search_link}
-"""
 
 
     IMDB_TEMPLATE_TXT = """<b><a href={url}>{title} (<a href={url}/releaseinfo>{year}</a>)
