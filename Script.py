@@ -243,22 +243,21 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 SEARCHING_TXT = """
 🔍 <b>Sᴇᴀʀᴄʜɪɴɢ Fᴏʀ Yᴏᴜʀ Fɪʟᴇ...</b>
 ━━━━━━━━━━━━━━━━━━━━
-⏳ <i>Pʟᴇᴀsᴇ Wᴀɪᴛ A Mᴏᴍᴇɴᴛ, Wᴇ Aʀᴇ Fᴇᴛᴄʜɪɴɢ Rᴇsᴜʟᴛs Fʀᴏᴍ Oᴜʀ Dᴀᴛᴀʙᴀsᴇ.</i>
+⏳ <i>Pʟᴇᴀsᴇ Wᴀɪᴛ A Mᴏᴍᴇɴᴛ, Wᴇ Aʀᴇ Fᴇᴛᴄʜɪɴɢ Rᴇsᴜʟᴛs Fʀᴏᴍ Oᴜʀ Dᴀᴛᴀʙᴀsᴇ.</i>"""
 ━━━━━━━━━━━━━━━━━━━━
-"""
+
 SEARCH_LINK_TXT = """🔍 <b>SEARCH →</b> {search_link}"""
 
+IMDB_TEMPLATE_TXT = """
+<b><a href={url}>{title}</a> (<a href={url}/releaseinfo>{year}</a>)</b>
 
+RATING : <a href={url}/ratings>{rating}</a>
+GENRE : {genres}
+AUDIO : {languages}
 
+SHOWN IN : {remaining_seconds} <i>SEC</i> ⚡
+<b>REQ BY : {message.from_user.mention}</b>"""
 
-    IMDB_TEMPLATE_TXT = """<b><a href={url}>{title} (<a href={url}/releaseinfo>{year}</a>)
-
-ʀᴀᴛɪɴɢ : <a href={url}/ratings>{rating}</a>
-ɢᴇɴʀᴇ : {genres}
-ᴀᴜᴅɪᴏ : {languages}
-
-sʜᴏᴡɴ ɪɴ : {remaining_seconds} <i>sᴇᴄ</i>⚡️
-<b>ʀᴇǫ ʙʏ : {message.from_user.mention}</b>"""
 
     LOGO = r"""
     ████████╗███████╗ ██████╗██╗  ██╗ ██████╗     ██╗  ██╗██████╗ ██╗███████╗███████╗██╗  ██╗
