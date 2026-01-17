@@ -241,12 +241,14 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 {episodes}
 </blockquote>
 SEARCHING_TXT = """
-🔍 <b>Sᴇᴀʀᴄʜɪɴɢ Fᴏʀ Yᴏᴜʀ Fɪʟᴇ...</b>
-━━━━━━━━━━━━━━━━━━━━
-⏳ <i>Pʟᴇᴀsᴇ Wᴀɪᴛ A Mᴏᴍᴇɴᴛ, Wᴇ Aʀᴇ Fᴇᴛᴄʜɪɴɢ Rᴇsᴜʟᴛs Fʀᴏᴍ Oᴜʀ Dᴀᴛᴀʙᴀsᴇ.</i>
-━━━━━━━━━━━━━━━━━━━━
+    🔍 <b>Sᴇᴀʀᴄʜɪɴɢ Fᴏʀ Yᴏᴜʀ Fɪʟᴇ...</b>
+    ━━━━━━━━━━━━━━━━━━━━
+    ⏳ <i>Pʟᴇᴀsᴇ Wᴀɪᴛ A Mᴏᴍᴇɴᴛ, Wᴇ Aʀᴇ Fᴇᴛᴄʜɪɴɢ Rᴇsᴜʟᴛs Fʀᴏᴍ Oᴜʀ Dᴀᴛᴀʙᴀsᴇ.</i>
+    ━━━━━━━━━━━━━━━━━━━━
 """
+
 SEARCH_LINK_TXT = """🔍 <b>SEARCH →</b> {search_link}"""
+
 
 IMDB_TEMPLATE_TXT = """
 <b><a href={url}>{title}</a> (<a href={url}/releaseinfo>{year}</a>)</b>
