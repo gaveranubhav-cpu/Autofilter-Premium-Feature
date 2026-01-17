@@ -246,8 +246,8 @@ SEARCHING_TXT = """
 ⏳ <i>Pʟᴇᴀsᴇ Wᴀɪᴛ A Mᴏᴍᴇɴᴛ, Wᴇ Aʀᴇ Fᴇᴛᴄʜɪɴɢ Rᴇsᴜʟᴛs Fʀᴏᴍ Oᴜʀ Dᴀᴛᴀʙᴀsᴇ.</i>
 ━━━━━━━━━━━━━━━━━━━━
 """
-
 SEARCH_LINK_TXT = """🔍 <b>SEARCH →</b> {search_link}"""
+
 
 
 
