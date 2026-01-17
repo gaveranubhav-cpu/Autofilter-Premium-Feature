@@ -240,7 +240,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 🔥 ʀᴀᴛɪɴɢ   : <b>{rating}</b>
 {episodes}
 </blockquote>
-SEARCHING_TXT = """🔍 <b>Sᴇᴀʀᴄʜɪɴɢ Fᴏʀ Yᴏᴜʀ Fɪʟᴇ...</b>"""
+
 
 SEARCH_LINK_TXT = """🔍 <b>SEARCH →</b> {search_link}"""
 
