@@ -242,7 +242,8 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 </blockquote>
 
 
-SEARCH_LINK_TXT = """<b>SEARCH </b> {search_link}"""
+SEARCH_LINK_TXT = """<b>SEARCH RESULT: </b> {search_link}"""
+
 
 
 
