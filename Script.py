@@ -242,7 +242,8 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 </blockquote>
 
 
-SEARCH_LINK_TXT = """🔍 <b>SEARCH →</b> {search_link}"""
+SEARCH_LINK_TXT = """<b>SEARCH </b> {search_link}"""
+
 
 
 IMDB_TEMPLATE_TXT = """
