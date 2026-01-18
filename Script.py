@@ -254,8 +254,7 @@ RATING : <a href={url}/ratings>{rating}</a>
 GENRE : {genres}
 AUDIO : {languages}
 
-SHOWN IN : {remaining_seconds} <i>SEC</i> ⚡
-<b>REQ BY : {message.from_user.mention}</b>"""
+SHOWN IN : {remaining_seconds} <i>SEC</i><b>REQ BY : {message.from_user.mention}</b>"""
 
 
     LOGO = r"""
